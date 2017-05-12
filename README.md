@@ -3,6 +3,8 @@
 
 Ejercicio que muestra cómo funciona un strategy con herencia en ECMAScript 6, en forma muy similar a otros lenguajes "basados en clases". 
 
+<img src="img/customer.png" height="100" width="100"/>
+
 ## Dominio
 
 Tenemos un cliente de un banco que tiene tres formas posibles de calcular el monto máximo que le podemos prestar
@@ -21,7 +23,7 @@ El proyecto viene con tests hechos en [Jasmine](https://jasmine.github.io/). Par
 * Clonar el proyecto (o descargarlo como zip)
 
 ```bash
-# git clone https://github.com/uqbar-project/clientesDecorator-es6
+# git clone https://github.com/uqbar-project/clientesHerencia-es6
 ```
 
 * Abrir el archivo [SpecRunner.html](SpecRunner.html) en un navegador
