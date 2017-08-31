@@ -2,6 +2,7 @@ describe('clientes', () => {
   let manuel
   let manuelSpecial
   let manuelDoubty
+  let manuelPocoDeudorDudoso
 
   beforeEach(() => {
     manuel = new Cliente()
