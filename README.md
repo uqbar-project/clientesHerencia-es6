@@ -1,6 +1,8 @@
 
 # Clientes de un Banco (Strategy con Herencia)
 
+[![Build Status](https://travis-ci.org/uqbar-project/clientesHerencia-es6.svg?branch=master)](https://travis-ci.org/uqbar-project/clientesHerencia-es6)
+
 Ejercicio que muestra cómo funciona un strategy con herencia en ECMAScript 6, en forma muy similar a otros lenguajes "basados en clases". 
 
 <img src="img/customer.png" height="100" width="100"/>
